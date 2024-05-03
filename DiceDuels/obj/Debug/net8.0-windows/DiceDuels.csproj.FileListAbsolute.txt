@@ -1,0 +1,16 @@
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\bin\Debug\net8.0-windows\DiceDuels.exe
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\bin\Debug\net8.0-windows\DiceDuels.dll
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.Form1.resources
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.csproj.GenerateResource.cache
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.AssemblyInfoInputs.cache
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.AssemblyInfo.cs
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.csproj.CoreCompileInputs.cache
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.dll
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\refint\DiceDuels.dll
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.pdb
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\bin\Debug\net8.0-windows\DiceDuels.deps.json
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\bin\Debug\net8.0-windows\DiceDuels.runtimeconfig.json
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\bin\Debug\net8.0-windows\DiceDuels.pdb
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\DiceDuels.genruntimeconfig.cache
+C:\Users\mcire\Desktop\ProyectoProg\DiceDuels\obj\Debug\net8.0-windows\ref\DiceDuels.dll
